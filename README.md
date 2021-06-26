@@ -17,7 +17,7 @@ Cool, light, performant, easy avatar server for osu servers. It is meant to hand
 
 ## How do I use it?
 The avatar server is **EXTREMELY** simple to set up.
-- Download the GitHub repository on your server. This can be done by running the command `https://github.com/RealistikOsu/avatar-server`.
+- Download the GitHub repository on your server. This can be done by running the command `git clone https://github.com/RealistikOsu/avatar-server`.
 - Download all of the required modules. This is done by running `python3.9 -m pip install -r requirements.txt` in the downloaded server files folder.
 - Copy the `config.sample.py` file and rename it to `config.py`.
 - Open it and modify all the values according to your preferences (you might not even need to do it as the defaults are good).
