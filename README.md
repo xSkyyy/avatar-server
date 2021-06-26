@@ -1,4 +1,8 @@
-# avatar-server
+# Avatar Server
+
+![image](https://user-images.githubusercontent.com/36131887/123528177-77259400-d6dd-11eb-9e2e-58018259e98a.png)
+
+
 Cool, light, performant, easy avatar server for osu servers. It is meant to handle all connections to the `a` subdomain for your osu server.
 
 ## Cool things
